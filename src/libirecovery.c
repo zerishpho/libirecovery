@@ -245,7 +245,12 @@ static struct irecv_device irecv_devices[] = {
 	{ "iBridge2,10", "j213ap",   0x18, 0x8012, "Apple T2 MacBookPro15,4 (j213)" },
 	{ "iBridge2,12", "j140aap",  0x37, 0x8012, "Apple T2 MacBookAir8,2 (j140a)" },
 	{ "iBridge2,14", "j152f",    0x3A, 0x8012, "Apple T2 MacBookPro16,1 (j152f)" },
-	{ "iBridge2,21", "J223AP",   0x3b, 0x8012, "Apple T2 MacBookPro16,3 (j223a)" },
+	{ "iBridge2,21", "J223AP",   0x3B, 0x8012, "Apple T2 MacBookPro16,3 (j223a)" },
+	{ "iBridge2,15", "J230kAP",  0x3F, 0x8012, "Apple T2 MacbookAir9,1  (j230k)" },
+	{ "iBridge2,19", "J185ap",   0x22, 0x8012, "Apple T2 Macbook  (j185a)" },
+	{ "iBridge2,20", "J185fap",  0x23, 0x8012, "Apple T2 Macbook  (j185f)" },
+	{ "iBridge2,22", "J215AP",   0x38, 0x8012, "Apple T2 Macbook  (j215a)" },
+	{ "iBridge2,16", "j214kap",  0x3E, 0x8012, "Apple T2 Macbook  (j214k)" },
 	{ NULL,          NULL,         -1,     -1, NULL }
 };
 
